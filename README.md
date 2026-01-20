@@ -1,7 +1,10 @@
 # VertiGrow Mobile Application Showcase
 
 ## 📸 Project Preview
-![VERTIGROW-APP-SS-1](https://github.com/user-attachments/assets/2c3d529f-f7bc-4df3-be80-71d0d0245c02) ![VERTIGROW-APP-SS-2](https://github.com/user-attachments/assets/a3bdb95a-fb06-44f3-9b2d-5451d3c71e13)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2c3d529f-f7bc-4df3-be80-71d0d0245c02" width="45%" />
+  <img src="https://github.com/user-attachments/assets/a3bdb95a-fb06-44f3-9b2d-5451d3c71e13" width="45%" />
+</p>
 
 ## 🚀 Key Features
 * **Real-time sensor monitoring**
